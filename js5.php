@@ -14,7 +14,7 @@
         //echo "{$x} + {$y} = {$result}";
     }
 ?>
-<form action="brad05.php">
+<form action="js5.php">
 <input id="x" name="x" value="<?php echo $x;?>">
 +
 <input id="y" name="y" value="<?php echo $y;?>">

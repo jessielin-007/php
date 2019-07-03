@@ -6,3 +6,6 @@ var_dump($content);
 foreach ($content as $k => $line){
     echo $line;
 }
+
+// file_get_contents 把檔案讀到字串裡面
+// getcsv 讀到陣列中 
